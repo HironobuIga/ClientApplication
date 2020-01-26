@@ -1,2 +1,2 @@
-include ':app', ':entity', ':api'
+include ':app', ':entity', ':api', ':repository'
 rootProject.name='ClientApplication'
